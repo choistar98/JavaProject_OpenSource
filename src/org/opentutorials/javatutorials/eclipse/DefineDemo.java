@@ -1,4 +1,4 @@
-package org.opentutorials.javatutorials.array;
+package org.opentutorials.javatutorials.eclipse;
 
 public class DefineDemo {
 
